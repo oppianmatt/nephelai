@@ -1,5 +1,5 @@
 define(`PUPPETCLASS', `examplesite')
-define(`PUPPETMODULES', `https://s3.amazonaws.com/oppian-puppet-modules/oppian-puppet-modules-201204241439.tar.gz')
+define(`PUPPETMODULES', `https://s3.amazonaws.com/oppian-puppet-modules/oppian-puppet-modules-201205241553.tar.gz')
 
 define(`SOURCEBUCKET', `examplesite-releases')
 define(`SOURCENAME', `examplesite.1.0.1.tar.gz')
